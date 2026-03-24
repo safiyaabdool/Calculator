@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CalcButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="CalcButtonOp">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:backgroundTint">#FF9800</item>
+    </style>
+
+    <style name="CalcButtonEquals">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:backgroundTint">#4CAF50</item>
+    </style>
+
+    <style name="CalcButtonClear">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:backgroundTint">#F44336</item>
+    </style>
+
+</resources>
